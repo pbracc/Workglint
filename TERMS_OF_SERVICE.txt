@@ -1,0 +1,85 @@
+TERMS AND CONDITIONS OF SERVICE
+
+Last updated: September 2026
+
+Please read these Terms and Conditions of Service ("Terms") carefully before using this email client application (the "Software") developed by [Insert your Name or App Name] ("we", "our", or "us"). By installing and using the Software, you agree to comply with and be bound by these Terms.
+
+1. NATURE OF THE SOFTWARE AND INTELLECTUAL PROPERTY
+This Software is a local email client designed for managing messages, contacts, and calendars.
+- The Software is closed-source. All intellectual property rights, copyrights, and the underlying source code remain the exclusive property of the developer.
+- Downloading and using the Software does not transfer any ownership, patent rights, or source code access to the user.
+
+2. LICENSE GRANT AND PERMITTED USE
+You are granted a free, non-exclusive, and non-transferable software license to use the application under the following conditions:
+- The Software is provided completely free of charge and is open to use by any individual or legal entity.
+- It is fully permitted for use in personal, educational, professional, and commercial environments at no cost.
+
+3. RESTRICTIONS ON USE
+The user strictly agrees NOT to perform any of the following actions, directly or indirectly:
+- Decompile, disassemble, reverse engineer, or attempt to discover the source code of the Software.
+- Modify, alter, or create derivative works based on the compiled executable binary files of the application.
+- Sell, rent, lease, or redistribute this Software for profit, or bundle it into commercial software packages without prior written consent from the author.
+
+4. DONATIONS, PATREON, AND SUPPORT MODEL
+The use of all Software features is 100% free of charge.
+- Development is sustained exclusively through voluntary donations from users (via Patreon, PayPal, or other authorized platforms).
+- Making a financial donation is entirely voluntary. It does not grant the user any ownership, voting rights over development, mandatory priority technical support, or special terms of use outside of those stipulated in this document.
+
+5. RESPONSIBILITY FOR EMAIL ACCOUNTS AND PROVIDERS
+This Software connects directly to your third-party email providers (such as Gmail, Outlook, Yahoo, or private corporate servers).
+- The user is solely responsible for correctly configuring their access credentials and complying with the terms of service of their respective email providers.
+- We do not control, guarantee, or take responsibility for service interruptions, account bans, or technical failures caused by these third-party mail providers.
+
+6. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. The developer does not guarantee that the Software is entirely error-free or that it will operate without interruptions. In no event shall the author be liable for any data loss, missing emails, or indirect or incidental damages resulting from the use or inability to use the Software.
+
+7. CHANGES TO THESE TERMS
+We reserve the right to modify these Terms at any time. Changes will become effective immediately upon publishing the updated file to this GitHub repository. Continued use of the Software constitutes acceptance of the modified Terms.
+
+8. CONTACT
+If you have any questions regarding these Terms, please open an Issue in this official GitHub repository or contact us at [Insert your contact email/channel].
+
+
+
+TÉRMINOS Y CONDICIONES DEL SERVICIO
+
+Última actualización: Septiembre de 2026
+
+Por favor, lee atentamente estos Términos y Condiciones del Servicio ("Términos") antes de utilizar esta aplicación de cliente de correo electrónico (el "Software") desarrollada por [Inserta tu Nombre o Nombre de la App] ("nosotros", "nuestro"). Al instalar y usar el Software, aceptas cumplir con estos Términos.
+
+1. NATURALEZA DEL SOFTWARE Y PROPIEDAD INTELECTUAL
+Este Software es un cliente de correo electrónico local diseñado para la gestión de mensajes, contactos y calendarios. 
+- El Software es de código cerrado. Todos los derechos de propiedad intelectual, derechos de autor y el código fuente son propiedad exclusiva del desarrollador.
+- La descarga y el uso del Software no transfieren al usuario ningún derecho de propiedad, patente o copia del código fuente.
+
+2. CONCESIÓN DE LICENCIA Y USO PERMITIDO
+Se otorga una licencia de uso de software gratuita, no exclusiva y no transferible bajo las siguientes condiciones:
+- El Software se proporciona de forma totalmente gratuita y libre para cualquier persona física o entidad jurídica.
+- Se permite su uso en entornos personales, educativos, profesionales y comerciales sin costo alguno.
+
+3. RESTRICCIONES DE USO
+El usuario se compromete a NO realizar las siguientes acciones de forma directa o indirecta:
+- Descompilar, desarmar, realizar ingeniería inversa o intentar descubrir el código fuente del Software.
+- Modificar, alterar o crear trabajos derivados basados en los archivos binarios ejecutables de la aplicación.
+- Vender, alquilar, arrendar o redistribuir este Software con fines de lucro o incluirlo en paquetes de software comerciales sin autorización previa por escrito del autor.
+
+4. DONACIONES, PATREON Y MODELO DE APOYO
+El uso de todas las funciones del Software es 100% gratuito. 
+- El desarrollo se sostiene exclusivamente mediante donaciones voluntarias de los usuarios (a través de Patreon, PayPal u otras plataformas autorizadas).
+- La realización de una donación económica es un acto puramente voluntario de apoyo al proyecto. No otorga al usuario ninguna propiedad, derechos de voto sobre el desarrollo, soporte técnico prioritario obligatorio ni condiciones especiales de uso fuera de las estipuladas en este documento.
+
+5. RESPONSABILIDAD SOBRE LAS CUENTAS DE CORREO Y PROVEEDORES
+Este Software se conecta directamente a tus proveedores de correo de terceros (como Gmail, Outlook, Yahoo o servidores corporativos privados). 
+- El usuario es el único responsable de configurar correctamente sus credenciales de acceso y de cumplir con los términos de servicio de sus respectivos proveedores de correo.
+- Nosotros no controlamos, garantizamos ni somos responsables de las interrupciones de servicio, bloqueos de cuenta o fallos técnicos por parte de dichos proveedores de terceros.
+
+6. EXCLUSIÓN DE GARANTÍA Y LIMITACIÓN DE RESPONSABILIDAD
+EL SOFTWARE SE PROPORCIONA "TAL CUAL" ("AS IS"), SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA. El desarrollador no garantiza que el Software esté completamente libre de errores o que funcione de manera ininterrumpida. En ningún caso el autor será responsable por la pérdida de datos, correos electrónicos, daños indirectos o incidentales resultantes del uso o la incapacidad de usar el Software.
+
+7. CAMBIOS EN LOS TÉRMINOS
+Nos reservamos el derecho de modificar estos Términos en cualquier momento. Los cambios se harán efectivos inmediatamente tras la publicación del archivo actualizado en este repositorio de GitHub. El uso continuado del Software constituye la aceptación de los nuevos Términos.
+
+8. CONTACTO
+Si tienes dudas sobre estos Términos, puedes abrir un "Issue" en el repositorio oficial de GitHub o contactarnos en [Inserta tu correo/canal de contacto].
+
+
