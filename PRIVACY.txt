@@ -1,0 +1,66 @@
+PRIVACY POLICY
+
+Last updated: September 2026
+
+This Privacy Policy explains how [Insert your Name or App Name] ("we", "our", or "us") handles data within this email client application (the "Software"). We take your privacy very seriously and operate under a strict "Privacy by Design" model.
+
+1. NO CENTRAL COLLECTION OF PERSONAL DATA
+This Software is a local desktop application. We do not operate any central servers, database systems, or telemetry platforms to collect, monitor, store, or process your personal data. 
+- We do not collect your email addresses.
+- We do not collect your passwords, app passwords, or OAuth tokens.
+- We do not read, analyze, or harvest the content of your emails, contacts, or calendar entries.
+
+2. LOCAL DATA STORAGE AND ENCRYPTION
+All data processed by the Software is strictly local to your machine:
+- Your email account credentials, settings, and downloaded messages are stored exclusively on your local device.
+- We strongly recommend using operating-system-level encryption (such as BitLocker, FileVault, or LUKS) to secure your local files from unauthorized physical access.
+
+3. DIRECT THIRD-PARTY CONNECTIONS (YOUR EMAIL PROVIDERS)
+The Software establishes direct, encrypted connections (via IMAP, SMTP, POP3, Exchange, or OAuth) between your local machine and your selected email providers (e.g., Gmail, Outlook, Yahoo, or your custom corporate server). 
+- These connections are direct and do not pass through any proxy or intermediary servers managed by us.
+- Your interaction with those email services is subject to the respective privacy policies of your email providers.
+
+4. DONATIONS AND FINANCIAL DATA
+If you choose to support the development of this Software via donations (e.g., Patreon, PayPal, GitHub Sponsors, Buy Me a Coffee), your financial transaction is handled entirely by those third-party payment processors. 
+- We never receive, process, or store your credit card numbers, bank accounts, or billing information.
+- We only receive the basic information provided by the platform to acknowledge your voluntary support (such as your platform username or public profile name).
+
+5. CHANGES TO THIS PRIVACY POLICY
+We may update this Privacy Policy from time to time to reflect changes in the Software's features or legal requirements. Any updates will be published directly in this repository with an updated "Last updated" date.
+
+6. CONTACT
+If you have any questions or feedback regarding the privacy aspects of this Software, please open an Issue in this GitHub repository or contact us at [Insert your contact email/channel].
+
+
+POLÍTICA DE PRIVACIDAD
+
+Última actualización: Septiembre de 2026
+
+Esta Política de Privacidad explica cómo [Inserta tu Nombre o el Nombre de la App] ("nosotros", "nuestro" o "nos") maneja los datos dentro de esta aplicación de cliente de correo electrónico (el "Software"). Nos tomamos tu privacidad muy en serio y operamos bajo un modelo estricto de "Privacidad por Diseño".
+
+1. SIN RECOLECCIÓN CENTRALIZADA DE DATOS PERSONALES
+Este Software es una aplicación de escritorio local. No operamos ningún servidor central, sistema de base de datos ni plataformas de telemetría para recopilar, monitorear, almacenar o procesar tus datos personales.
+- No recopilamos tus direcciones de correo electrónico.
+- No recopilamos tus contraseñas, contraseñas de aplicación ni tokens de OAuth.
+- No leemos, analizamos ni cosechamos el contenido de tus correos electrónicos, contactos o entradas de calendario.
+
+2. ALMACENAMIENTO LOCAL DE DATOS Y ENCRIPTACIÓN
+Todos los datos procesados por el Software son estrictamente locales en tu máquina:
+- Las credenciales de tus cuentas de correo, configuraciones y mensajes descargados se almacenan exclusivamente en tu dispositivo local.
+- Recomendamos encarecidamente utilizar encriptación a nivel de sistema operativo (como BitLocker, FileVault o LUKS) para proteger tus archivos locales de accesos físicos no autorizados.
+
+3. CONEXIONES DIRECTAS CON TERCEROS (TUS PROVEEDORES DE CORREO)
+El Software establece conexiones directas y encriptadas (a través de IMAP, SMTP, POP3, Exchange o OAuth) entre tu máquina local y los proveedores de correo electrónico que elijas (por ejemplo, Gmail, Outlook, Yahoo o tu servidor corporativo personalizado).
+- Estas conexiones son directas y no pasan por ningún servidor proxy o intermediario gestionado por nosotros.
+- Tu interacción con esos servicios de correo electrónico está sujeta a las políticas de privacidad respectivas de tus proveedores de correo.
+
+4. DONACIONES Y DATOS FINANCIEROS
+Si decides apoyar el desarrollo de este Software a través de donaciones (por ejemplo, Patreon, PayPal, GitHub Sponsors, Buy Me a Coffee), tu transacción financiera es gestionada en su totalidad por esas plataformas de pago de terceros.
+- Nosotros nunca recibimos, procesamos ni almacenamos tus números de tarjeta de crédito, cuentas bancarias o información de facturación.
+- Solo recibimos la información básica proporcionada por la plataforma para agradecer tu apoyo voluntario (como tu nombre de usuario de la plataforma o perfil público).
+
+5. CAMBIOS A ESTA POLÍTICA DE PRIVACIDAD
+Podemos actualizar esta Política de Privacidad de vez en cuando para reflejar cambios en las funciones del Software o requisitos legales. Cualquier actualización se publicará directamente en este repositorio con una fecha de "Última actualización" renovada.
+
+6. CONTACTO
+Si tienes alguna pregunta o sugerencia sobre los aspectos de privacidad de este Software, por favor abre un "Issue" en este repositorio de GitHub o contáctanos en [Inserta tu correo/canal de contacto].
