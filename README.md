@@ -1,2 +1,2 @@
-# kooltuo
-Kooltuo Mail
+# Workglint
+Workglint Mail
